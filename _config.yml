@@ -6,9 +6,9 @@ color:
   saturation: 0.46632135193794966
   rhythmicContrast: 0.732026772107929
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: ic
